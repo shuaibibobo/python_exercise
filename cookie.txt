@@ -1,0 +1,1 @@
+[{"domain": ".hualala.com", "expiry": 1628410831.234242, "httpOnly": false, "name": "dynamic_code_session", "path": "/", "secure": false, "value": "543f9655-4d2c-40d6-a6e1-57b38ebfc810"}, {"domain": ".hualala.com", "expiry": 1941178831.119162, "httpOnly": false, "name": "language_type", "path": "/", "secure": false, "value": "zh-cn"}]
